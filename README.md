@@ -1,4 +1,4 @@
-# Virsion Control lab 2
+# Version Control lab 2
 
 ## Removing Branches
 
