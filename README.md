@@ -1,4 +1,4 @@
-# Git Commands and Tagging Guide
+# Virsion Control lab 2
 
 ## Removing Branches
 
